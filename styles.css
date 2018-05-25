@@ -1,0 +1,9 @@
+.canvas{
+    background: lightgray;
+    height: 100%;
+    width: 100%;
+}
+
+.canvas-container{
+    height: 100%;
+}
